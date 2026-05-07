@@ -32,25 +32,25 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
 <resource status="published">
 
-<extIdent>keyhouse_mszczonow_20260311</extIdent>
+<extIdent>keyhouse_mszczonow_20260507</extIdent>
 
 <url>
 https://key-house-development.github.io/dane-gov/ceny-ofertowe-mieszkan-dewelopera-keyhouse-mszczonow.csv
 </url>
 
 <title>
-<polish>Ceny ofertowe mieszkań Key House 2026-03-11</polish>
-<english>Offer prices Key House 2026-03-11</english>
+<polish>Ceny ofertowe mieszkań Key House 2026-05-07</polish>
+<english>Offer prices Key House 2026-05-07</english>
 </title>
 
 <description>
-<polish>Cennik mieszkań dewelopera Key House z dnia 2026-03-11</polish>
-<english>Offer prices of apartments developer Key House 2026-03-11</english>
+<polish>Cennik mieszkań dewelopera Key House z dnia 2026-05-07</polish>
+<english>Offer prices of apartments developer Key House 2026-05-07</english>
 </description>
 
 <availability>local</availability>
 
-<dataDate>2026-03-11</dataDate>
+<dataDate>2026-05-07</dataDate>
 
 <specialSigns>
 <specialSign>X</specialSign>
