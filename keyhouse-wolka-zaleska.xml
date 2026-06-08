@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ns2:datasets xmlns:ns2="urn:otwarte-dane:harvester:1.13"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<dataset status="published">
+
+<extIdent>keyhouse_wolka_zaleska_dataset</extIdent>
+
+<title>
+<polish>Ceny ofertowe mieszkań dewelopera Key House Wólka Załęska w 2026 r.</polish>
+<english>Offer prices of apartments of developer Key House Wólka Załęska in 2026</english>
+</title>
+
+<description>
+<polish>Zbiór danych zawiera ceny ofertowe mieszkań dewelopera Key House Wólka Załęska.</polish>
+<english>The dataset contains offer prices of apartments of developer Key House Wólka Załęska.</english>
+</description>
+
+<updateFrequency>daily</updateFrequency>
+
+<hasDynamicData>false</hasDynamicData>
+<hasHighValueData>true</hasHighValueData>
+<hasHighValueDataFromEuropeanCommissionList>false</hasHighValueDataFromEuropeanCommissionList>
+<hasResearchData>false</hasResearchData>
+
+<categories>
+<category>ECON</category>
+</categories>
+
+<resources>
+
+<resource status="published">
+
+<extIdent>keyhouse_wolka_zaleska_20260608</extIdent>
+
+<url>
+https://key-house-development.github.io/dane-gov/ceny-ofertowe-mieszkan-dewelopera-keyhouse-wolka-zaleska.csv
+</url>
+
+<title>
+<polish>Ceny ofertowe mieszkań Key House Wólka Załęska 2026-06-08</polish>
+<english>Offer prices Key House Wólka Załęska 2026-06-08</english>
+</title>
+
+<description>
+<polish>Cennik mieszkań dewelopera Key House Wólka Załęska z dnia 2026-06-08</polish>
+<english>Offer prices of apartments developer Key House Wólka Załęska 2026-06-08</english>
+</description>
+
+<availability>local</availability>
+
+<dataDate>2026-06-08</dataDate>
+
+<specialSigns>
+<specialSign>X</specialSign>
+</specialSigns>
+
+<hasDynamicData>false</hasDynamicData>
+<hasHighValueData>true</hasHighValueData>
+<hasHighValueDataFromEuropeanCommissionList>false</hasHighValueDataFromEuropeanCommissionList>
+<hasResearchData>false</hasResearchData>
+<containsProtectedData>false</containsProtectedData>
+
+</resource>
+
+</resources>
+
+<tags>
+<tag lang="pl">Deweloper</tag>
+<tag lang="pl">Mieszkania</tag>
+<tag lang="pl">Ceny ofertowe</tag>
+</tags>
+
+</dataset>
+
+</ns2:datasets>
